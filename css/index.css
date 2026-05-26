@@ -1569,9 +1569,15 @@ a#infos:hover {
 }
 #twittit {
   position: absolute;
-  right: 90px;
+  right: 160px;
   top: 50%;
   margin-top: -9px;
+}
+.donate-btn {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  margin-top: -18px;
 }
 #jsinfos {
   padding: 10px 20px;
