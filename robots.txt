@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaanana.sanchaya.net/sitemap.xml
